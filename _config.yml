@@ -55,14 +55,14 @@ project-list:
         url: https://www.ecei.tohoku.ac.jp/eipe
     Tohoku Univ. Master (2016-):
         name: Tohoku Univ. Master (2016-)
-        description: Ohno & Fukami's Lab (dropout)
-        url: http://www.spin.riec.tohoku.ac.jp/
+        description: Ohno & Fukami's Lab. (dropout)
+        url: http://www.spin.riec.tohoku.ac.jp
     Kayac (2017-):
         name: Kayac (2017-)
         description: ServerSide Engineer (Perl / Go)
-        url: https://www.kayac.com/
+        url: https://www.kayac.com
     AKS (2020-):
-        name: AKS (2020-)
+        name: akiba.kayac.studio (2020-)
         description: Unity Engineer
         url: 
 
