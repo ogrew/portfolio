@@ -67,7 +67,7 @@ project-list:
         url: 
 
 # do you want to display the theme attribution? true or false
-footer: true
+footer: false
 
 # Enable animations? true or false
 animation: true
