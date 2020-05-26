@@ -34,12 +34,13 @@ skills: true
 # add your skills here
 skills-list:
     - Unity(C#)
+    - Perl / Go / Python
     - TouchDesigner
     - Blender
-    - Houdini
     - p5.js (Processing)
+    - Houdini
+    - Notch
     - WebGL / GLSL
-    - Perl / Go / Python
     - MySQL
     - AWS
     - Git
